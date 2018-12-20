@@ -1,2 +1,2 @@
 # localSeriesTicker
-Local series ticke, just run main 
+Local series ticker, just run main 
